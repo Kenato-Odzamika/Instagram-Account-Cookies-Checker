@@ -1,0 +1,1 @@
+Для установки всех библиотек используем -> pip install instaloader requests rich
